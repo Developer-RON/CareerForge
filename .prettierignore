@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+
+# build output
+.next
+out
+dist
+build
+coverage
+
+# lockfiles
+package-lock.json
+
+# generated / framework-managed
+next-env.d.ts
+AGENTS.md
+CLAUDE.md
+
+# assets
+*.svg
+*.ico
